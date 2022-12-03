@@ -8,7 +8,6 @@ import utilities.Driver;
 
 import java.util.List;
 
-
 public class GuruStepDefinitions {
 
     GuruPage guruPage=new GuruPage();
