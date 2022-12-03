@@ -8,7 +8,7 @@ import utilities.Driver;
 
 import java.util.List;
 
-public class GuruStepDefinitions {
+public class  {
 
     GuruPage guruPage=new GuruPage();
     @Given("cookies sorulursa kabul eder")
